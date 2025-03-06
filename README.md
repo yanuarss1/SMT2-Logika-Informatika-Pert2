@@ -70,3 +70,5 @@ print(f"Diskon Member        : Rp {int(diskon)}")
 print("--------------------------------------")
 print(f"Total Biaya          : Rp {total_biaya}")
 print("======================================")
+
+# OUTPUT PROGRAM
