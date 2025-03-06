@@ -1,0 +1,1 @@
+# SMT2-Logika-Informatika-Pert2
