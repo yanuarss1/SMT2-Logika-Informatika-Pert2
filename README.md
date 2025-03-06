@@ -6,7 +6,7 @@
 
 
 # INPUT PROGRAM
-'''python
+```python
 def hitung_biaya_pengiriman(berat, jarak, ekspres=False, member=False):
     # Biaya dasar
     biaya = 10000
