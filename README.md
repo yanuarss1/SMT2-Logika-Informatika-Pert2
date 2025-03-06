@@ -72,3 +72,22 @@ print(f"Total Biaya          : Rp {total_biaya}")
 print("======================================")
 
 # OUTPUT PROGRAM
+Masukkan jarak pengiriman (km): 50
+Masukkan jenis pengiriman (biasa/ekspres): ekspres
+Apakah Anda member? (member/non-member): member
+
+========== STRUK PENGIRIMAN ==========
+Berat Paket          : 50.0 kg
+Jarak Pengiriman     : 50.0 km
+Jenis Pengiriman     : Ekspres
+Status Member        : Member
+--------------------------------------
+Biaya Dasar          : Rp 10000
+Biaya Tambahan Berat : Rp 5000
+Biaya Tambahan Jarak : Rp 8000
+Biaya Layanan Ekspres: Rp 20000
+Diskon Member        : Rp 4300
+--------------------------------------
+Total Biaya          : Rp 38700
+======================================
+PS C:\MATAKULIAH\LOGIKA INFORMATIKA> 
